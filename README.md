@@ -1,16 +1,54 @@
-## Hi there 👋
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A6FFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajesh+Sahoo;Web+Developer+from+India;Full+Stack+Developer+(MERN);I+love+building+web+apps+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-<!--
-**rajeshsahoo14/rajeshsahoo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a passionate **Full Stack Developer** with a focus on building user-friendly and responsive web applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
+Currently learning **Docker** and exploring deployment platforms like **Render**.  
+I enjoy working on real-world projects, continuously learning, and improving my skills in both frontend and backend development.
+
+---
+
+### 🧰 Tech Stack
+
+#### 🚀 Languages & Libraries
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+
+#### 🛢 Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+
+#### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+![Render](https://img.shields.io/badge/-Render-2A6FFF?logo=render&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsahoo14&show_icons=true&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeshsahoo14&theme=radical&hide_border=true" width="45%"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/rajeshsahoo14)
+
+---
+
