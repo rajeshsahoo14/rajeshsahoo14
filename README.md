@@ -52,3 +52,4 @@ I enjoy working on real-world projects, continuously learning, and improving my 
 
 ---
 
+⭐ *Thanks for visiting! Let’s connect and collaborate.*
