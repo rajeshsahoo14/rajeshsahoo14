@@ -48,8 +48,8 @@ I enjoy working on real-world projects, continuously learning, and improving my 
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/rajeshsahoo14)
-📫 How to reach me rajeshsahoo.dev@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/rajeshsahoo14)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:rajeshsahoo.dev@gmail.com)
 
 ---
 
