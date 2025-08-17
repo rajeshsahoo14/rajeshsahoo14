@@ -52,4 +52,4 @@ I enjoy tackling real-world challenges, collaborating with teams, and continuous
 
 ---
 
-⭐ *Thanks for visiting my profile! Let's connect and create something amazing together.* 🚀
+⭐ **Thanks for visiting my profile! Let's connect and create something amazing together.** 🚀
