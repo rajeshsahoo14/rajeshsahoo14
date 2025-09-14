@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A6FFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajesh+Sahoo;Full+Stack+Developer+(MERN);Web+Developer+from+India;I+love+building+web+apps+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
