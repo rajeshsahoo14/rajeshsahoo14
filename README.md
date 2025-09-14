@@ -1,15 +1,16 @@
 <!-- Typing Animation -->
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A6FFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajesh+Sahoo;Full+Stack+Developer+(MERN);Web+Developer+from+India;I+love+building+web+apps+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A6FFF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajesh+Sahoo;Full+Stack+Developer+(MERN);Web+Developer+from+India;I+love+building+web+apps+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-I’m a passionate **Full Stack Developer** specializing in building **responsive, user-friendly web applications** using the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
-Currently exploring **Docker** and **cloud deployment platforms** like Render and Vercel.  
-I enjoy tackling real-world challenges, collaborating with teams, and continuously expanding my skills in **frontend** and **backend development**.  
+- 💡 Passionate **Full Stack Developer (MERN)** focused on building **scalable and user-friendly applications**  
+- 🚀 Currently learning **Docker** and exploring **cloud deployment platforms** like **Render, Vercel, and Netlify**  
+- 🛠️ Enjoys solving **real-world problems**, working in teams, and **continuous learning**  
+- 💻 Strong in both **frontend** and **backend development**  
 
 ---
 
@@ -39,8 +40,8 @@ I enjoy tackling real-world challenges, collaborating with teams, and continuous
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsahoo14&show_icons=true&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeshsahoo14&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsahoo14&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeshsahoo14&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -52,4 +53,4 @@ I enjoy tackling real-world challenges, collaborating with teams, and continuous
 
 ---
 
-⭐ **Thanks for visiting my profile! Let's connect and create something amazing together.** 🚀
+⭐ **Thanks for stopping by! Let’s connect and build something amazing together.** 🚀
