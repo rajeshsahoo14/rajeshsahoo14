@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=2A6FFF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Rajesh+Sahoo;Full+Stack+Developer+(MERN);Passionate+about+Web+Development;Always+Learning+New+Tech+🚀" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajeshsahoo14&label=Profile%20views&color=0e75b6&style=flat" alt="Rajesh Sahoo Profile Views" />
+</p>
+
 ---
 
 ## 👨‍💻 Who Am I?  
