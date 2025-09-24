@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 Who Am I?  
+## 👨‍💻 Who Am I?   
 
 🌟 I’m **Rajesh Sahoo**, a **Full Stack Developer** who loves turning ideas into real-world web applications.  
 💡 Skilled in **MERN Stack** with a strong focus on **clean code**, **problem-solving**, and **scalable solutions**.  
